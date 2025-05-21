@@ -1,4 +1,6 @@
 # **Linear Algebra Solver**  
+*This is for the university linear algebra course project*
+
 ![App Screenshot](/screenshots/head.png)  
 
 
