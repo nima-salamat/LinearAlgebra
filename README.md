@@ -21,6 +21,14 @@ A **PySide6-based GUI application** for solving **multivariable linear equations
 
 ---
 
+
+## 🔽 Download
+
+➡️ [Go to Release Page](https://github.com/nima-salamat/LinearAlgebra/releases)  
+⬇️ [Download MathApp.exe](https://github.com/nima-salamat/LinearAlgebra/releases/download/v1.0.0/MathApp.exe)
+
+
+
 ## **Features**  
 ✔ **Linear Equation Solver** – Solves systems of linear equations using **Gauss-Jordan elimination**.  
 ✔ **Determinant Calculator** – Computes the determinant of any square matrix.  
