@@ -1,0 +1,9 @@
+src/matrix/__pycache__
+src/matrix/__pycache__/*
+
+src/ui/__pycache__
+src/ui/__pycache__/*
+
+exe
+exe/*
+
