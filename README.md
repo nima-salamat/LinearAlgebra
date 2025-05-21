@@ -1,15 +1,17 @@
 # **Linear Algebra Solver**  
 ![App Screenshot](/screenshots/head.png)  
-<p align="center">
-  <figure style="display:inline-block; margin: 40px;">
-    <img src="screenshots/example1.png" width="300">
-    <figcaption align="center">⏺️text mode</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin: 40px;">
-    <img src="screenshots/example2.png" width="300">
-    <figcaption align="center">⏺️grid mode</figcaption>
-  </figure>
-</p>
+
+
+<div align="center">
+  <div style="display:inline-block; margin: 20px;">
+    <img src="screenshots/example1.png" width="300"><br>
+    <div align="center">⏺️text mode</div>
+  </div>
+  <div style="display:inline-block; margin: 20px;">
+    <img src="screenshots/example2.png" width="300"><br>
+    <div align="center">⏺️grid mode</div>
+  </div>
+</div>
 
 
 A **PySide6-based GUI application** for solving **multivariable linear equations** (using **Gauss-Jordan elimination**), calculating **matrix determinants**, and computing **matrix inverses**.  
