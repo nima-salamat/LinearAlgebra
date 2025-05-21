@@ -2,11 +2,11 @@
 ![App Screenshot](/screenshots/head.png)  
 <p align="center">
   <figure style="display:inline-block; margin: 40px;">
-    <img src="screenshots/example1.png" width="400">
+    <img src="screenshots/example1.png" width="300">
     <figcaption align="center">⏺️text mode</figcaption>
   </figure>
   <figure style="display:inline-block; margin: 40px;">
-    <img src="screenshots/example2.png" width="400">
+    <img src="screenshots/example2.png" width="300">
     <figcaption align="center">⏺️grid mode</figcaption>
   </figure>
 </p>
