@@ -2,16 +2,19 @@
 ![App Screenshot](/screenshots/head.png)  
 
 
-<div align="center">
-  <div style="display:inline-block; margin: 20px;">
-    <img src="screenshots/example1.png" width="300"><br>
-    <div align="center">⏺️text mode</div>
-  </div>
-  <div style="display:inline-block; margin: 20px;">
-    <img src="screenshots/example2.png" width="300"><br>
-    <div align="center">⏺️grid mode</div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/example1.png" width="300"><br>
+      <sub>⏺️ text mode</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/example2.png" width="300"><br>
+      <sub>⏺️ grid mode</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 A **PySide6-based GUI application** for solving **multivariable linear equations** (using **Gauss-Jordan elimination**), calculating **matrix determinants**, and computing **matrix inverses**.  
